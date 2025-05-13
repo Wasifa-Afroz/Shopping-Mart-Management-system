@@ -8,7 +8,7 @@ Install XAMPP from the official website if you haven’t already.
 
 Open phpMyAdmin by visiting http://localhost/phpmyadmin in your browser.
 
-Import the provided SQL database file into phpMyAdmin to create the required database.
+Import the provided SQL database file into phpMyAdmin to create the required database [named as shopping_mart.sql]
 
 Copy the entire project folder and paste it into the htdocs directory inside your XAMPP installation folder (usually found at C:\xampp\htdocs).
 
