@@ -20,3 +20,12 @@ http://localhost/Shopping%20Mart/index.php
 Make sure both Apache and MySQL are running in your XAMPP Control Panel before accessing the site.
 
 ![image alt](https://github.com/Wasifa-Afroz/Shopping-Mart-Management-system/blob/main/img1.JPG?raw=true)
+![image alt](https://github.com/Wasifa-Afroz/Shopping-Mart-Management-system/blob/main/img2.JPG?raw=true)
+![image alt](https://github.com/Wasifa-Afroz/Shopping-Mart-Management-system/blob/main/img3.JPG?raw=true)
+![image alt](https://github.com/Wasifa-Afroz/Shopping-Mart-Management-system/blob/main/img4.JPG?raw=true)
+![image alt](https://github.com/Wasifa-Afroz/Shopping-Mart-Management-system/blob/main/img5.JPG?raw=true)
+![image alt](https://github.com/Wasifa-Afroz/Shopping-Mart-Management-system/blob/main/img6.JPG?raw=true)
+![image alt](https://github.com/Wasifa-Afroz/Shopping-Mart-Management-system/blob/main/img7.JPG?raw=true)
+![image alt](
+https://github.com/Wasifa-Afroz/Shopping-Mart-Management-system/blob/main/img7.JPG?raw=true)
+
