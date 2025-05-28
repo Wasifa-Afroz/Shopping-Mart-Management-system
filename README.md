@@ -18,3 +18,5 @@ To launch the project in your browser, copy the path of the index.php file from 
 http://localhost/Shopping%20Mart/index.php
 
 Make sure both Apache and MySQL are running in your XAMPP Control Panel before accessing the site.
+
+![image alt](https://github.com/Wasifa-Afroz/Shopping-Mart-Management-system/blob/main/img1.JPG?raw=true)
