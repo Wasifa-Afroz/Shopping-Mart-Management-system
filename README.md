@@ -26,6 +26,5 @@ Make sure both Apache and MySQL are running in your XAMPP Control Panel before a
 ![image alt](https://github.com/Wasifa-Afroz/Shopping-Mart-Management-system/blob/main/img5.JPG?raw=true)
 ![image alt](https://github.com/Wasifa-Afroz/Shopping-Mart-Management-system/blob/main/img6.JPG?raw=true)
 ![image alt](https://github.com/Wasifa-Afroz/Shopping-Mart-Management-system/blob/main/img7.JPG?raw=true)
-![image alt](
-https://github.com/Wasifa-Afroz/Shopping-Mart-Management-system/blob/main/img7.JPG?raw=true)
+![image alt](https://github.com/Wasifa-Afroz/Shopping-Mart-Management-system/blob/main/img8.JPG?raw=true)
 
